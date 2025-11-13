@@ -1,3 +1,3 @@
 # Git Workflow
 
-Hello, friends.
+Hello, friends!
